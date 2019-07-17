@@ -1,0 +1,51 @@
+body {
+  background-color: #BFEAFD;
+}
+
+body{font-size: 1em;
+line-height: 1.5em;
+font-style: normal;
+}
+
+
+h1{
+  color: #4D7081;
+  text-decoration: underline;
+  font-size: 2.2em;
+  line-height: 4em;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+h2{
+  color: #4D7081;
+  text-decoration: underline;
+  font-size: 1.65em;
+  line-height: 2em;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+h3{
+  color: #4D7081;
+  text-decoration: underline;
+  font-size: 1.2em;
+  line-height: 2em;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+<html>
+<body>
+
+<ul>
+  <li><a href="#file:///Users/cnamarketing/Desktop/plasticweb.html">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+<p>Note: We use href="#" for test links. In a real web site this would be URLs.</p>
+
+</body>
+</html>
