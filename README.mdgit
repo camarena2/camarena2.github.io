@@ -1,0 +1,1 @@
+# camarena2.github.io initgit add README.md git commit -m first commitgit remote add origin https://github.com/camarena2/camarena2.github.io.gitgit push -u origin master
